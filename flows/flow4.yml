@@ -4,7 +4,7 @@ description: |-
   Aqui puedes empezar con el curos
 pages:
 - content: "#day 1 semana 3\n<div class=\"lead\">asdasd asdas dasd asdasd\r\n asd\r\
-    \nas d\r\nas\r\ndas</div>\n            "
+    \nas d\r\nas\r\ndas</div>\n                "
   id: page11
   type: Page
 rules:
